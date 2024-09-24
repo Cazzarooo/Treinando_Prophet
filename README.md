@@ -1,7 +1,3 @@
-Aqui está a versão atualizada do README, incluindo a informação sobre a possibilidade de utilizar outros arquivos CSV:
-
----
-
 # Previsão da Variação do IPCA com Prophet
 
 Este projeto utiliza a biblioteca Prophet para prever a variação do IPCA (Índice de Preços ao Consumidor Amplo) nos próximos 10 anos, com base em dados históricos.
